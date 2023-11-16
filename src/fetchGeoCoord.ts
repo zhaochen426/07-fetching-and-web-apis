@@ -9,3 +9,4 @@ export function fetchGeoCoord(query: string): Promise<GeoCoord> {
   // TODO
   return new Promise(res => res({ lat: NaN, lon: NaN }));
 }
+asdfasffd
